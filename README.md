@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=40&lines=💻+Software+Developer;⚙️+Tech+Enthusiast" alt="Niharika Bandila" />
 </p>
----
+
 
 ## 🚀 About Me
 - 💻 Working with FastAPI, React.js, Python
