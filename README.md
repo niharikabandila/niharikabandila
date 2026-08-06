@@ -24,7 +24,7 @@
   <a href="https://www.geeksforgeeks.org/profile/bniharika10102" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://niharikabandila.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Site-%2300009c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />  </a>
 </p>
 
